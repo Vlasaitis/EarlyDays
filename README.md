@@ -1,8 +1,6 @@
 # MovieBuffDb
     My final project for the CS50 Python course is a simple game based on movie knowledge.
-
-# Video Demo: <https://youtu.be/kR3Y1ThwqnE>
-
+    
 # Description:
     The game uses an imported list of the Top250 rated movies on IMDb as its baseline. The game itself provides the user with some basic information to start, explaining the rules. Following the intro, the user gets prompted to choose a level. The lower the level, the fewer points the player is granted, and the shorter the list of randomly generated movies:
 
